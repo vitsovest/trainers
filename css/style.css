@@ -58,12 +58,6 @@ header{
 
  }
 
- .img_logo{
-     content: url("../images/logo-small.png");
-     display: block;
-     width: 100%;
- }
-
  header form{
      width: 208px;
      height: 42px;
