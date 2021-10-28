@@ -5,6 +5,28 @@
         max-width: 63px;
         width: 100%;
     }
+    header .btn {
+        font-size: 0px;
+        min-width: 30px;
+        height: 42px;
+        text-align: center;
+        display: inline-block;
+    }
+
+    header nav a{
+        font-size: 12px;
+        line-height: 12px;
+    }
+    header nav li{
+        margin-right: 8px;
+    }
+
+    li .soc{
+        width: 15px;
+        height: 15px;
+        margin-left: 8px;
+        font-size: 12px;
+    }
 }
 
 @media only screen and (max-width: 375px) {
