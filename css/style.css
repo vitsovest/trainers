@@ -55,6 +55,13 @@ header{
  header .logo img{
      display: block;
      width: 100%;
+
+ }
+
+ .img_logo{
+     content: url("../images/logo-small.png");
+     display: block;
+     width: 100%;
  }
 
  header form{
